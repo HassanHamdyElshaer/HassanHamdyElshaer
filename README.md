@@ -50,19 +50,16 @@
 
 ###
 
-<h2 align="left">Watch my contribution graph 🐍</h2>
-
-###
-
-<p align="center">
-  <img src="https://github.com/HassanHamdyElshaer/HassanHamdyElshaer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<!-- 🐍 Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HassanHamdyElshaer/HassanHamdyElshaer/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=HassanHamdyElshaer&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanHamdyElshaer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false&order=1" height="50" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanHamdyElshaer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanHamdyElshaer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
