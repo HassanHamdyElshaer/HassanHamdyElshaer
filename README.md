@@ -50,7 +50,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HassanHamdyElshaer/HassanHamdyElshaer/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Watch my contribution graph 🐍</h2>
+
+###
+
+<p align="center">
+  <img src="https://github.com/HassanHamdyElshaer/HassanHamdyElshaer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
@@ -67,5 +73,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Bye%20!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
