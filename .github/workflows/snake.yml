@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"   # ⏰ يحدث يوميًا عند منتصف الليل UTC
   workflow_dispatch:      # ⬅️ يسمح لك تشغله يدويًا من Actions
-  push:
+   push:
     branches:
-      - main
+      - master
+
 
 jobs:
   build:
